@@ -1,0 +1,36 @@
+Herramienta para análisis y predicción de datos multivariados basado en modelos de regresión.
+Objetivo General
+      Desarrollar una herramienta integral para análisis de regresión multivariable que integre diversos algoritmos supervisados de machine learning, con el fin de proporcionar a los usuarios una solución robusta y flexible para modelar relaciones entre variables.
+Objetivos Específicos
+* Investigar y seleccionar los algoritmos supervisados de machine learning más adecuados para la tarea de análisis de regresión. (regresión múltiple, árbol de regresión, random forest, regresión polinomial (segundo, tercer, quinto grado), máquinas de soporte de regresión (SVR; lineal, polinomial, radial) )
+* Diseñar e implementar una interfaz de usuario intuitiva y fácil de usar para la herramienta de análisis de regresión. (Ya se tienen definidos los algoritmos)
+* Desarrollar los módulos de preprocesamiento de datos necesarios para carga de datos estructura tipo csv; se omite la limpieza y transformación de los conjuntos de datos de entrada. (cargar datos limpios y preparados previamente).
+* Selección de variables independiente y dependientes o de manera natural del conjunto de datos cargado, todas las primeras variables son independiente y la última es dependiente o variable objetivo.
+* Análisis de datos mediante histogramas de variables y diagrama de correlación entre variables independientes y estadísticos descripticos de las variables.
+* Implementar los algoritmos de regresión seleccionados utilizando bibliotecas de machine learning como scikit-learn o TensorFlow de Python.
+* Integrar funcionalidad de la selección de variables que participarán en el modelo, quitar y agregar variables del conjunto de datos cargado.
+* Integrar funcionalidades la definición de datos de entrenamiento y validación con la designación del porcentaje para cada conjunto.
+* Integrar las métricas a evaluar por lo menos RME, RMSE y R squared de los modelos de regresión desarrollados.
+* Optimizar los parámetros de los modelos de regresión para mejorar su precisión y generalización.
+* Visualización lineal de la diferencia de datos reales con datos de predicción con los datos de validación.  
+* Predicción de datos, se debe habilitar la opción de indicar valores de un nuevo registro y mostrar el valor de predicción numéricamente de acuerdo al modelo seleccionado.
+* Generar una interpretación automatizada de acuerdo con los resultados de cada algoritmo
+Justificación
+      El análisis de regresión es una técnica estadística fundamental para modelar y predecir relaciones entre variables. Sin embargo, con el crecimiento de la cantidad y complejidad de los datos, se requiere el uso de técnicas más avanzadas como los algoritmos de machine learning. Esta herramienta integral proporcionará a los usuarios, tanto principiantes como expertos en el campo, una solución completa y eficiente para el análisis de regresión, lo que facilitará la exploración y comprensión de los datos, así como la creación de modelos precisos de predicción.
+Alcance
+      El proyecto se enfocará en el desarrollo de la herramienta de análisis de regresión, incluyendo la selección e implementación de algoritmos supervisados de machine learning, el diseño de la interfaz de usuario y la integración de funcionalidades de preprocesamiento de datos y evaluación del rendimiento del modelo. No se abordarán otras técnicas de análisis de datos o algoritmos de machine learning diferentes a los relacionados con la regresión.
+Metodología
+      El proyecto seguirá una metodología ágil de desarrollo de software, que incluirá iteraciones frecuentes de diseño, implementación y prueba. Se utilizarán herramientas de control de versiones para gestionar el código fuente y se fomentará la colaboración y retroalimentación del equipo de desarrollo.
+Cronograma Tentativo
+El proyecto se desarrollará en un período de seis meses, dividiendo las actividades en las siguientes etapas:
+* Investigación y selección de algoritmos 
+* Diseño e implementación de la interfaz de usuario 
+* Desarrollo de módulos de preprocesamiento de datos 
+* Implementación de algoritmos de regresión 
+* Integración y pruebas de la herramienta con la carga y análisis de distintos datos.
+* Presentación y comunicación de la herramienta
+Recursos Necesarios
+      Se requerirá un equipo de estudiantes multidisciplinario que incluya desarrolladores de software, científicos de datos y diseñadores de interfaz de usuario. Además, se necesitarán computadoras con suficiente capacidad de procesamiento y acceso a conjuntos de datos de prueba para el desarrollo y pruebas de la herramienta.
+Referencias bibliográficas
+      Se utilizarán diversas fuentes de información, incluyendo libros, artículos científicos y documentación de bibliotecas de machine learning, para fundamentar las decisiones de diseño e implementación de la herramienta.
+
