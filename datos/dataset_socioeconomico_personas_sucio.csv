@@ -35,17 +35,17 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 34,32,,F,Universitario,Divorciado,1,Sí,Sí
 35,64,78099.46664326318,F,Bachillerato,Casado,2,No,Sí
 36,61,66200.72098571973,F,Maestría,Divorciado,1,Sí,No
-37,20,43290.17156511873,F,nan,Casado,4,No,Sí
+37,20,43290.17156511873,,nan,Casado,4,No,Sí
 38,54,nULL,M,Maestría,Casado,0,Sí,Sí
 39,24,nAN,M,Bachillerato,Soltero,4,No,No
 40,38,,F,Universitario,Casado,3,Sí,No
-41,26,57270.99225941712,F,Bachillerato,Divorciado,0,No,Sí
+41,26,57270.99225941712,,Bachillerato,Divorciado,0,No,Sí
 42,56,,M,Maestría,Casado,3,No,No
 43,35,40346.75251523807,M,Bachillerato,Divorciado,1,No,No
 44,21,65449.412263717415,M,Universitario,Soltero,2,No,Sí
 45,42,44978.37001840189,F,Bachillerato,Divorciado,4,No,Sí
 46,31,43945.27305137005,F,Maestría,Casado,3,No,Sí
-47,26,35673.16130975971,F,Universitario,Divorciado,1,No,Sí
+47,26,35673.16130975971,,Universitario,Divorciado,1,No,Sí
 48,43,56353.98598390192,F,Bachillerato,nan,4,No,Sí
 49,19,80937.87378864718,M,Bachillerato,Casado,4,Sí,Sí
 50,37,,M,Universitario,Divorciado,3,Sí,No
@@ -67,7 +67,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 66,21,45568.97884791456,F,Bachillerato,Soltero,3,No,No
 67,46,52526.91464404421,F,Maestría,Casado,1,No,No
 68,35,69763.9630341194,M,Universitario,nan,1,No,No
-69,43,34901.86152080538,F,Universitario,Divorciado,3,No,Sí
+69,43,34901.86152080538,,Universitario,Divorciado,3,No,Sí
 70,61,67098.17841693568,n,Maestría,Soltero,0,No,Sí
 71,51,69756.72601009798,F,Universitario,Soltero,0,Sí,No
 72,27,48228.97209513382,n,Universitario,nan,0,No,Sí
@@ -93,7 +93,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 92,32,49637.06590413626,F,Universitario,Soltero,2,No,No
 93,62,36444.47208904808,F,Maestría,Divorciado,3,Sí,Sí
 94,18,54865.389225824045,M,Maestría,Casado,4,No,No
-95,42,32314.40313260296,M,Bachillerato,Soltero,4,No,Sí
+95,42,32314.40313260296,,Bachillerato,Soltero,4,No,Sí
 96,24,67815.19082692346,n,Universitario,Casado,3,Sí,Sí
 97,26,,F,Maestría,Casado,3,No,No
 98,41,53017.39483809259,M,Bachillerato,Casado,3,Sí,Sí
@@ -121,7 +121,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 120,40,35382.06042994038,M,Maestría,Divorciado,4,Sí,Sí
 121,41,,F,Universitario,Soltero,1,No,Sí
 122,54,48194.282540696026,F,Universitario,Divorciado,0,Sí,No
-123,52,17409.95680978946,M,nan,nan,4,Sí,Sí
+123,52,17409.95680978946,,nan,nan,4,Sí,Sí
 124,61,62711.325157256324,F,Bachillerato,Divorciado,3,No,No
 125,57,41970.07721069116,F,Maestría,Soltero,3,Sí,Sí
 126,39,48642.00076543759,F,Maestría,Soltero,3,No,Sí
@@ -133,7 +133,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 132,64,,M,Maestría,Casado,3,Sí,Sí
 133,31,61082.157213312545,F,Universitario,Casado,3,Sí,Sí
 134,20,,F,nan,Soltero,0,No,No
-135,18,35968.41946933107,F,Bachillerato,Casado,0,No,Sí
+135,18,35968.41946933107,F,Bachillerato,Casado,0,??,not
 136,22,66289.73174262549,M,Bachillerato,Divorciado,3,Sí,No
 137,43,41960.54832328928,M,Bachillerato,Divorciado,1,Sí,No
 138,31,62120.86697421718,F,Maestría,Soltero,0,Sí,Sí
@@ -154,7 +154,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 153,40,,M,Bachillerato,Divorciado,4,No,Sí
 154,56,67428.17453912286,F,Maestría,Casado,0,Sí,No
 155,62,36089.70298714139,M,Universitario,Soltero,3,Sí,No
-156,32,53575.53474102178,F,nan,Divorciado,4,Sí,No
+156,32,53575.53474102178,,nan,Divorciado,4,Sí,Not
 157,60,64627.96444673645,F,Universitario,Soltero,3,Sí,No
 158,46,,M,Maestría,Casado,0,Sí,No
 159,53,52843.724248981154,M,Universitario,Casado,3,Sí,No
@@ -205,7 +205,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 204,54,60070.101146756984,F,Maestría,Casado,3,Sí,No
 205,34,53197.94942356534,M,Bachillerato,Divorciado,2,No,Sí
 206,19,38720.460023917716,M,Bachillerato,Divorciado,3,No,No
-207,19,45214.19096500073,F,Universitario,Casado,4,No,No
+207,19,45214.19096500073,,Universitario,Casado,4,No,NOT
 208,45,38059.612147947664,F,nan,Soltero,4,Sí,Sí
 209,40,66140.10707897898,M,Universitario,Soltero,0,No,Sí
 210,54,,M,Bachillerato,Divorciado,1,Sí,Sí
@@ -237,7 +237,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 236,46,56629.109743541136,n,Universitario,Casado,1,No,No
 237,20,33644.01383835731,F,Universitario,Casado,1,No,Sí
 238,37,71163.98569619405,F,Bachillerato,Casado,3,No,No
-239,53,48521.17801573608,F,Maestría,Soltero,0,Sí,Sí
+239,,48521.17801573608,F,Maestría,Soltero,0,Sí,Sí
 240,36,50282.744344172716,M,Bachillerato,Soltero,3,Sí,Sí
 241,43,60623.21634884836,F,Maestría,Casado,1,Sí,No
 242,20,,F,Maestría,Casado,0,Sí,No
@@ -271,7 +271,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 270,49,53904.82758156831,M,Maestría,Divorciado,1,Sí,Sí
 271,26,47985.368877941786,F,Universitario,Divorciado,0,No,Sí
 272,58,62162.124097396736,M,Bachillerato,Casado,2,Sí,No
-273,52,61902.33080828319,F,Bachillerato,Soltero,3,Sí,Sí
+273,,61902.33080828319,F,Bachillerato,Soltero,3,Sí,Sí
 274,36,23772.02040142729,M,Bachillerato,Casado,2,No,Sí
 275,33,69565.10364317229,n,Bachillerato,nan,2,No,No
 276,20,,F,Universitario,Casado,1,Sí,No
@@ -334,7 +334,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 333,34,33908.854613902906,M,Maestría,Soltero,3,Sí,No
 334,61,53588.702961667244,F,Universitario,Casado,1,Sí,No
 335,45,81111.2400462496,M,Universitario,Casado,1,Sí,No
-336,47,36209.23112620365,M,Bachillerato,Divorciado,2,No,Sí
+336,,36209.23112620365,M,Bachillerato,DiBorciado,2,No,noT
 337,46,12045.687158805056,F,Universitario,Casado,0,Sí,No
 338,63,45709.936671798336,F,Bachillerato,Soltero,4,No,Sí
 339,23,66514.39452497856,F,Universitario,nan,4,No,Sí
@@ -356,12 +356,12 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 355,42,59323.57834784076,F,Maestría,Divorciado,0,Sí,No
 356,59,44455.84495934549,n,Bachillerato,Soltero,1,Sí,Sí
 357,48,55656.505908532796,M,Universitario,Casado,2,Sí,No
-358,20,49561.057794725326,M,Universitario,Casado,4,No,Sí
+358,,49561.057794725326,,Universitario,Casado,4,No,Sí
 359,57,66890.75376158251,n,Universitario,Divorciado,1,Sí,Sí
 360,63,49229.094146172705,n,Maestría,Casado,4,No,No
 361,41,23404.512976896778,F,Bachillerato,Casado,3,Sí,Sí
 362,49,68928.82251070987,F,Maestría,Soltero,4,Sí,No
-363,64,36414.015487060715,M,Bachillerato,Casado,1,Sí,Sí
+363,64,,M,Bachillerato,Casado,1,Sí,Sí
 364,39,40193.504920267704,F,Maestría,nan,4,Sí,Sí
 365,40,41065.08058934762,F,Maestría,Soltero,0,Sí,No
 366,19,70616.57139756226,M,Bachillerato,Divorciado,1,Sí,Sí
@@ -410,7 +410,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 409,54,47553.99554084354,M,nan,Soltero,2,No,No
 410,50,38826.46032790326,F,Universitario,Divorciado,0,Sí,No
 411,25,39872.325875384275,M,Bachillerato,Divorciado,1,No,Sí
-412,61,47832.219939267234,F,nan,Divorciado,3,Sí,No
+412,61,,F,nan,Divorciado,3,Sí,No
 413,61,,F,nan,Soltero,0,No,Sí
 414,22,45380.5770554144,n,Maestría,Casado,0,No,Sí
 415,56,21595.779995693214,n,Maestría,Soltero,3,No,Sí
@@ -2643,7 +2643,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 2642,57,70333.59403565522,F,Universitario,Divorciado,0,No,Sí
 2643,48,40837.13540292402,F,Bachillerato,Soltero,3,No,Sí
 2644,63,57567.24884574526,F,Universitario,Divorciado,2,Sí,Sí
-2645,53,26554.485401431197,n,Universitario,Soltero,2,No,Sí
+2645,53,26554.485401431197,n,,Soltero,2,No,Sí
 2646,28,32308.105032383293,M,Maestría,Divorciado,0,Sí,Sí
 2647,32,71526.31098833353,M,Bachillerato,Casado,4,No,No
 2648,36,44790.46566563236,n,nan,Soltero,1,No,Sí
@@ -2703,7 +2703,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 2702,39,,F,Universitario,Divorciado,3,No,No
 2703,47,27739.150026134972,F,Universitario,Casado,1,Sí,Sí
 2704,37,46872.976841893884,F,nan,nan,4,Sí,No
-2705,38,68099.12232295872,F,Maestría,nan,4,Sí,No
+2705,38,68099.12232295872,F,mecanics,nan,4,Sí,No
 2706,61,27092.482151155287,F,nan,Casado,0,Sí,No
 2707,49,34173.659477349574,F,nan,Casado,1,No,Sí
 2708,63,51894.01604351102,n,Universitario,Casado,2,No,No
@@ -2760,7 +2760,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_Civil,Num_Hijos,Propietario
 2759,56,,F,Bachillerato,nan,3,Sí,No
 2760,61,41588.586395302096,M,Maestría,Soltero,2,No,Sí
 2761,64,19456.692457160952,M,Universitario,Casado,2,Sí,No
-2762,42,50712.402023774644,M,Bachillerato,Soltero,1,Sí,Sí
+2762,42,,M,Bachillerato,Soltero,1,Sí,Sí
 2763,54,46263.92233020439,M,Universitario,Casado,3,Sí,No
 2764,64,24906.591480326388,n,Maestría,Casado,3,Sí,Sí
 2765,25,56063.19297915998,M,Bachillerato,Casado,4,Sí,Sí
