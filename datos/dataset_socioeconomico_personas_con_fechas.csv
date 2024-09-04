@@ -41,7 +41,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_CivTil,Num_Hijos,Propietari
 40,38.0,,F,Universitario,Casado,3,Sí,No,16 de December del 2016
 41,26.0,57270.99225941712,,Bachillerato,Divorciado,0,No,Sí,11 de July del 2022
 42,56.0,,M,Maestría,Casado,3,No,No,19 de March del 2017
-43,35.0,40346.75251523807,M,Bachillerato,Divorciado,1,No,No,11 de February del 2020
+43,350.0,40346.75251523807,M,Bachillerato,Divorciado,1,No,No,11 de February del 2020
 44,21.0,65449.412263717415,M,Universitario,Soltero,2,No,Sí,Invalid Date
 45,42.0,44978.37001840189,F,Bachillerato,Divorciado,4,No,Sí,23 de January del 2017
 46,31.0,43945.27305137005,F,Maestría,Casado,3,No,Sí,24 de July del 2016
@@ -134,7 +134,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_CivTil,Num_Hijos,Propietari
 133,31.0,61082.157213312545,F,Universitario,Casado,3,Sí,Sí,29 de September del 2018
 134,20.0,,F,,Soltero,0,No,No,15 de October del 2019
 135,18.0,35968.41946933107,F,Bachillerato,Casado,0,??,not,7 de July del 2021
-136,22.0,66289.73174262549,M,Bachillerato,Divorciado,3,Sí,No,30 de March del 2019
+136,-22.0,66289.73174262549,M,Bachillerato,Divorciado,3,Sí,No,30 de March del 2019
 137,43.0,41960.54832328928,M,Bachillerato,Divorciado,1,Sí,No,
 138,31.0,62120.86697421718,F,Maestría,Soltero,0,Sí,Sí,Invalid Date
 139,56.0,,n,Bachillerato,Soltero,4,No,No,18 de October del 2020
@@ -214,7 +214,7 @@ ID,Edad,Ingreso_Anual,Género,Nivel_Educativo,Estado_CivTil,Num_Hijos,Propietari
 213,18.0,39373.898496343056,M,Bachillerato,DiNorciado,1,No,Sí,11 de May del 2017
 214,36.0,27294.28411080759,F,Bachillerato,,1,Sí,Sí,Invalid Date
 215,19.0,,F,Maestría,Casado,0,Sí,No,2 de April del 2016
-216,61.0,26237.960854917652,F,Universitario,Divorciado,1,No,Sí,17 de June del 2020
+216,928,26237.960854917652,F,Universitario,Divorciado,1,No,Sí,17 de June del 2020
 217,43.0,54006.89976517225,n,,Soltero,1,Sí,Sí,24 de February del 2019
 218,49.0,,F,Bachillerato,Divorciado,2,No,No,4 de June del 2020
 219,23.0,26282.139469518,F,Universitario,,0,No,Sí,6 de January del 2016
